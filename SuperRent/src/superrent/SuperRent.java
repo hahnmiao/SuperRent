@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Cesium
+ * @author Hang
  */
 public class SuperRent extends Application {
     
